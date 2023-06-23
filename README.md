@@ -9,3 +9,5 @@ Jest opcja przeczytania cytatu za pomocą robotycznego głosu po naciśnięciu p
 Możemy aplikację wyłączyć, albo utworzyć zapytanie o kolejny cytat.
 
 Projekt zdecydowałem się zrobić w QT, gdzie w jednym miejscu posiadam wszystkie konieczne biblioteki.
+
+Działanie pliku wykonywalnego testowane na Linuxie Ubuntu LTS 22.04.2.
