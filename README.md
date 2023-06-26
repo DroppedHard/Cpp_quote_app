@@ -11,3 +11,5 @@ Możemy aplikację wyłączyć, albo utworzyć zapytanie o kolejny cytat.
 Projekt zdecydowałem się zrobić w QT, gdzie w jednym miejscu posiadam wszystkie konieczne biblioteki.
 
 Działanie pliku wykonywalnego testowane na Linuxie Ubuntu LTS 22.04.2.
+
+Do działania programu wymagany jest klucz do API ze strony https://api-ninjas.com. Następnie odpowiedni klucz należy wpisać do linii 35 w pliku mainwindow.cpp. 
