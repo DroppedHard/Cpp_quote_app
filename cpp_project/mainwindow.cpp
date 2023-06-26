@@ -30,9 +30,9 @@ MainWindow::~MainWindow()
 }
 
 void MainWindow::fetchProverb()
-{// nk8M2mcPpC9Zxq+H+A0afQ==Aurq2vom2bLs9sfF
+{// no api key for you :)
     QNetworkRequest *req = new QNetworkRequest(QUrl(fetchUrl));
-    req->setRawHeader("X-Api-Key", "nk8M2mcPpC9Zxq+H+A0afQ==Aurq2vom2bLs9sfF");
+    req->setRawHeader("X-Api-Key", "not this time :)");
     net_manager.get(*req);
 
 //    cout << "get run" << endl;
